@@ -1,0 +1,12 @@
+h1 {font-size: x-large; color:red;}
+h1{text-align: center;}
+#p1 {text-align: center;}
+#p2 {color: red;}
+
+hr {
+    border:2px dotted #000;}
+
+#s1 { font-weight: bold;}
+#p3 {font-weight: bold;}
+
+.s2 {float: right;}
